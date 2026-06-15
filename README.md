@@ -4,14 +4,6 @@
   <b>توسعه‌دهنده فول استک با تمرکز روی فرانت</b>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
-
 ---
 
 <details>
@@ -24,9 +16,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahdi-i&show_icons=true&theme=tokyonight&hide=prs,issues" width="400" />
-</p>
+
 
 ## 🛠️ مهارت‌های من
 
@@ -62,27 +52,11 @@
 </p>
 ---
 
-## 📌 الان کجام؟
 
-- 🔭 در حال ساختن **سیستم طراحی شخصی‌ام** (mahdi-design-system)
-- 🌱 یادگیری عمیق‌تر `Next.js 15` و `Docker`
-- 💬 همیشه حاضر به کمک و همکاری در پروژه‌های متن‌باز
-- 📫 ایمیل: **mahdi1750idham@gmail.com**
-
----
-
-## 📊 آمار (تازه شروع کردم ولی مصممم)
+## 📊 آمار 
 
 ![Mahdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahdi-i&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi-i&layout=compact&theme=tokyonight)
 
 ---
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <b>⭐️ اگر این مسیر برات آشناست، یه استار یادگاری بذار ❤️</b>
-</p>
