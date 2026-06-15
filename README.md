@@ -43,21 +43,21 @@
 ### 🚀 مهارت‌های من
 
 #### فرانت‌اند (پیشرفته)
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,redux,storybook" /><br/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,zustand,storybook" /><br/>
 
 #### بک‌اند (متوسط رو به بالا)
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,prisma,postgres,mysql,deno" /><br/>
 
 #### ابزارها و دیگر مهارت‌ها
-<img src="https://skillicons.dev/icons?i=docker,figma,git,github,vscode,linux,windows,postman" /><br/>
+<img src="https://skillicons.dev/icons?i=docker,figma,git,github,vscode,linux,postman" /><br/>
 
 ---
 
 
-### 🎯 در حال یادگیری عمیق‌تر
-- Docker
+### 🎯 در حال یادگیری 
 - NestJS 
 - WebSocket
+- linux
 - Deno
 
 ## 📊 آمار 
