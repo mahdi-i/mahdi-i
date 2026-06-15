@@ -1,9 +1,32 @@
-<h1 align="center">👋 مهدی هستم</h1>
+<div align="center">
 
-<p align="center">
-  <b>توسعه‌دهنده فول استک با تمرکز روی فرانت</b>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);小孙同学祝您今天愉快!&center=true&size=27)](https://git.io/typing-svg)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
+  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+</picture>
+
+<div>&nbsp;</div>
+
+![](./sponsors.png)
+
+
+<!-- <table style="margin-top: 20px;">
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="https://files.guoqi.dev/wxpay.png" width="250px"  alt="wxpay" style="border-radius:10px;" />
+      </td>
+      <td align="center">
+        <img src="https://files.guoqi.dev/alipay.jpg" width="250px"  alt="alipay" style="border-radius:10px;" />
+      </td>
+    </tr>
+  </tbody>
+</table> -->
+</div>
+</div>
 ---
 
 <details>
@@ -17,42 +40,25 @@
 ---
 
 
+### 🚀 مهارت‌های من
 
-## 🛠️my skills:
+#### فرانت‌اند (پیشرفته)
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,redux,storybook" /><br/>
 
+#### بک‌اند (متوسط رو به بالا)
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,prisma,postgres,mysql,deno" /><br/>
 
-### front:
-<p align="left">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=plastic&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/React_Query-FF4154?style=plastic&logo=react-query&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zustand-000000?style=plastic&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=plastic&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shadcn/ui-000000?style=plastic&logo=shadcn/ui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Storybook-FF4785?style=plastic&logo=storybook&logoColor=white" />
-</p>
+#### ابزارها و دیگر مهارت‌ها
+<img src="https://skillicons.dev/icons?i=docker,figma,git,github,vscode,linux,windows,postman" /><br/>
 
-### back:
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=plastic&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=plastic&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeORM-FE0902?style=plastic&logo=typeorm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=plastic&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=plastic&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=plastic&logo=json-web-tokens&logoColor=white" />
-</p>
-
-### tools:
-<p align="left">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white" />
-</p>
+---
 
 
+### 🎯 در حال یادگیری عمیق‌تر
+- Docker
+- NestJS 
+- WebSocket
+- Deno
 
 ## 📊 آمار 
 
