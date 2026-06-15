@@ -18,11 +18,10 @@
 
 
 
-## 🛠️ مهارت‌های من
+## 🛠️my skills:
 
 
-### فرانت‌اند
-### فرانت‌اند
+### front:
 <p align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?style=plastic&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB" />
@@ -34,7 +33,7 @@
   <img src="https://img.shields.io/badge/Storybook-FF4785?style=plastic&logo=storybook&logoColor=white" />
 </p>
 
-### بک‌اند
+### back:
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=plastic&logo=nestjs&logoColor=white" />
@@ -46,13 +45,13 @@
   <img src="https://img.shields.io/badge/JWT-000000?style=plastic&logo=json-web-tokens&logoColor=white" />
 </p>
 
-### ابزارها
+### tools:
 <p align="left">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white" />
 </p>
----
+
 
 
 ## 📊 آمار 
