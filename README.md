@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);小孙同学祝您今天愉快!&center=true&size=27)](https://git.io/typing-svg)
+[![Typing SVG]([https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);小孙同学祝您今天愉快!&center=true&size=27)](https://git.io/typing-svg](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Hello,%20I%27m%20back.!&center=true&size=27)](https://git.io/typing-svg))
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
@@ -66,7 +66,6 @@
 
 ## 📊 آمار 
 
-![Mahdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahdi-i&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi-i&layout=compact&theme=tokyonight)
 
