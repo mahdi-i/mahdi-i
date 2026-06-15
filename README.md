@@ -22,16 +22,15 @@
 
 
 ### فرانت‌اند
-
 <p align="left">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=react-query&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zustand-000000?style=flat-square&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shadcn/ui-000000?style=flat-square&logo=shadcn/ui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=plastic&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React_Query-FF4154?style=plastic&logo=react-query&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zustand-000000?style=plastic&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=plastic&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shadcn/ui-000000?style=plastic&logo=shadcn/ui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Storybook-FF4785?style=plastic&logo=storybook&logoColor=white" />
 </p>
 
 ### بک‌اند
