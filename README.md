@@ -55,14 +55,13 @@
 <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" />
 
 #### Tools
-<img src="https://skillicons.dev/icons?i=docker,figma,git,github,vscode,linux,windows,postman" /><br/>
+<img src="https://skillicons.dev/icons?i=docker,figma,git,github,vscode,postman" /><br/>
 ---
 
 
 ### 🎯Learning 
 - NestJS 
 - WebSocket
-- linux
 - Deno
 
 ## 📊 Analysis
