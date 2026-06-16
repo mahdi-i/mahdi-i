@@ -41,31 +41,31 @@
 ---
 
 
-### 🚀 مهارت‌های من
+### 🚀My skills
 
-#### فرانت‌اند
+#### FrontEnd
 <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,redux" /><br/>
 <img src="https://img.shields.io/badge/Zustand-000000?style=flat&logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white" />
 <img src="https://img.shields.io/badge/Shadcn/ui-000000?style=flat&logo=shadcnui&logoColor=white" />
 
-#### بک‌اند
+#### BackEnd
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,prisma,postgres,mysql,deno" /><br/>
 <img src="https://img.shields.io/badge/TypeORM-FE0902?style=flat&logo=typeorm&logoColor=white" />
 <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" />
 
-#### ابزارها
+#### Tools
 <img src="https://skillicons.dev/icons?i=docker,figma,git,github,vscode,linux,windows,postman" /><br/>
 ---
 
 
-### 🎯 در حال یادگیری 
+### 🎯Learning 
 - NestJS 
 - WebSocket
 - linux
 - Deno
 
-## 📊 آمار 
+## 📊 Analysis
 
 
 <p align="center">
