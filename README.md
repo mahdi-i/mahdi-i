@@ -68,6 +68,8 @@
 ## 📊 آمار 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi-i&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahdi-i&theme=merko&area=true&hide_border=true" alt="Activity Graph">
+</p>
 
 ---
